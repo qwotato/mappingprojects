@@ -1,0 +1,155 @@
+Name,sqmiles,year,Population,Region,Region2,density,yrshare,popsqmi
+ Grand Boulevard,1.74,1950,114557,South Side,South,65837.35632,0.0316,60k+
+ Lake View,2.09,1950,124824,North Side,North,59724.40191,0.0345,50k-60k
+ Lake View,2.09,2020,101428,North Side,North,48530.14354,0.0376,40k-50k
+ Douglas,1.65,1950,78745,South Side,South,47724.24242,0.0217,40k-50k
+ Oakland,0.58,1950,24464,South Side,South,42179.31034,0.0068,40k-50k
+ Woodlawn,2.07,1950,80699,South Side,South,38985.02415,0.0223,30k-40k
+ West Garfield Park,1.28,1950,48443,West Side,West,37846.09375,0.0134,30k-40k
+ Washington Park,1.52,1950,56856,South Side,South,37405.26316,0.0157,30k-40k
+ East Garfield Park,1.93,1950,70091,West Side,West,36316.58031,0.0194,30k-40k
+ Uptown,2.33,1950,84462,Far North Side,North,36249.78541,0.0233,30k-40k
+ Near North Side,2.74,2020,98528,Central,Central,35959.12409,0.0365,30k-40k
+ West Town,4.58,1950,161620,West Side,West,35288.20961,0.0446,30k-40k
+ Kenwood,1.04,1950,35705,South Side,South,34331.73077,0.0099,30k-40k
+ Hyde Park,1.61,1950,55206,South Side,South,34289.44099,0.0152,30k-40k
+ Rogers Park,1.84,1950,62252,Far North Side,North,33832.6087,0.0172,30k-40k
+ Edgewater,1.74,2020,58693,Far North Side,North,33731.6092,0.0218,30k-40k
+ Near North Side,2.74,1950,89196,Central,Central,32553.28467,0.0246,30k-40k
+ Lincoln Park,3.17,1950,102396,North Side,North,32301.57729,0.0283,30k-40k
+ Edgewater,1.74,1950,54606,Far North Side,North,31382.75862,0.0151,30k-40k
+ North Lawndale,3.21,1950,100489,West Side,West,31304.98442,0.0278,30k-40k
+ Lincoln Square,1.52,1950,47298,Far North Side,North,31117.10526,0.0131,30k-40k
+ Englewood,3.07,1950,94134,Southwest Side,South,30662.54072,0.0260,30k-40k
+ Rogers Park,1.84,2020,55643,Far North Side,North,30240.76087,0.0206,30k-40k
+ Logan Square,3.59,1950,106763,North Side,North,29738.99721,0.0295,20k-30k
+ Near West Side,5.69,1950,160362,West Side,West,28183.1283,0.0443,20k-30k
+ Albany Park,1.92,1950,52995,Far North Side,North,27601.5625,0.0146,20k-30k
+ Lincoln Square,1.52,2020,41350,Far North Side,North,27203.94737,0.0153,20k-30k
+ South Shore,2.93,1950,79336,South Side,South,27077.13311,0.0219,20k-30k
+ Albany Park,1.92,2020,49280,Far North Side,North,25666.66667,0.0183,20k-30k
+ Uptown,2.33,2020,59453,Far North Side,North,25516.30901,0.0220,20k-30k
+ Fuller Park,0.71,1950,17174,South Side,South,24188.73239,0.0047,20k-30k
+ Loop,1.65,2020,39327,Central,Central,23834.54545,0.0146,20k-30k
+ Armour Square,1,1950,23294,South Side,South,23294,0.0064,20k-30k
+ Avondale,1.98,1950,45313,North Side,North,22885.35354,0.0125,20k-30k
+ North Center,2.12,1950,47787,North Side,North,22541.03774,0.0132,20k-30k
+ West Ridge,3.53,2020,78763,Far North Side,North,22312.46459,0.0292,20k-30k
+ Bridgeport,2.09,1950,46070,South Side,South,22043.0622,0.0127,20k-30k
+ Lincoln Park,3.17,2020,69568,North Side,North,21945.74132,0.0258,20k-30k
+ Humboldt Park,3.6,1950,76199,West Side,West,21166.38889,0.0210,20k-30k
+ Irving Park,3.21,1950,64881,Northwest Side,North,20212.14953,0.0179,20k-30k
+ Belmont Cragin,3.91,2020,78788,Northwest Side,North,20150.38363,0.0292,20k-30k
+ Logan Square,3.59,2020,72305,North Side,North,20140.66852,0.0268,20k-30k
+ West Englewood,3.15,1950,62842,Southwest Side,South,19949.84127,0.0174,10k-20k
+ Hermosa,1.17,2020,23163,Northwest Side,North,19797.4359,0.0086,10k-20k
+ Hermosa,1.17,1950,22805,Northwest Side,North,19491.45299,0.0063,10k-20k
+ Avondale,1.98,2020,37360,North Side,North,18868.68687,0.0138,10k-20k
+ Austin,7.15,1950,132180,West Side,West,18486.71329,0.0365,10k-20k
+ Lower West Side,2.93,1950,53991,West Side,West,18426.96246,0.0149,10k-20k
+ West Town,4.58,2020,80383,West Side,West,17550.87336,0.0298,10k-20k
+ Greater Grand Crossing,3.55,1950,61753,South Side,South,17395.21127,0.0171,10k-20k
+ Kenwood,1.04,2020,17972,South Side,South,17280.76923,0.0067,10k-20k
+ Hyde Park,1.61,2020,27722,South Side,South,17218.63354,0.0103,10k-20k
+ South Shore,2.93,2020,50275,South Side,South,17158.70307,0.0186,10k-20k
+ North Center,2.12,2020,36142,North Side,North,17048.11321,0.0134,10k-20k
+ Irving Park,3.21,2020,53604,Northwest Side,North,16699.06542,0.0199,10k-20k
+ South Chicago,3.34,1950,55715,Far Southeast Side,South,16681.13772,0.0154,10k-20k
+ Portage Park,3.95,1950,64736,Northwest Side,North,16388.86076,0.0179,10k-20k
+ Belmont Cragin,3.91,1950,63546,Northwest Side,North,16252.17391,0.0175,10k-20k
+ Portage Park,3.95,2020,63919,Northwest Side,North,16182.02532,0.0237,10k-20k
+ Auburn Gresham,3.77,1950,60978,Far Southwest Side,South,16174.53581,0.0168,10k-20k
+ Gage Park,2.2,2020,35300,Southwest Side,South,16045.45455,0.0131,10k-20k
+ West Elsdon,1.17,2020,18523,Southwest Side,South,15831.62393,0.0069,10k-20k
+ Bridgeport,2.09,2020,32901,South Side,South,15742.10526,0.0122,10k-20k
+ New City,4.83,1950,75917,Southwest Side,South,15717.80538,0.0210,10k-20k
+ Brighton Park,2.72,2020,42728,Southwest Side,South,15708.82353,0.0158,10k-20k
+ South Lawndale,4.59,2020,70235,West Side,West,15301.74292,0.0260,10k-20k
+ Brighton Park,2.72,1950,41345,Southwest Side,South,15200.36765,0.0114,10k-20k
+ Humboldt Park,3.6,2020,54401,West Side,West,15111.38889,0.0202,10k-20k
+ Near South Side,1.78,2020,26376,Central,Central,14817.97753,0.0098,10k-20k
+ South Lawndale,4.59,1950,66977,West Side,West,14591.939,0.0185,10k-20k
+ Montclare,0.99,2020,14382,Northwest Side,North,14527.27273,0.0053,10k-20k
+ Chicago Lawn,3.53,2020,51243,Southwest Side,South,14516.43059,0.0190,10k-20k
+ Chicago Lawn,3.53,1950,50211,Southwest Side,South,14224.07932,0.0139,10k-20k
+ Chatham,2.95,1950,40845,Far Southeast Side,South,13845.76271,0.0113,10k-20k
+ Gage Park,2.2,1950,30149,Southwest Side,South,13704.09091,0.0083,10k-20k
+ Grand Boulevard,1.74,2020,23669,South Side,South,13602.87356,0.0088,10k-20k
+ West Ridge,3.53,1950,47930,Far North Side,North,13577.90368,0.0132,10k-20k
+ Armour Square,1,2020,13401,South Side,South,13401,0.0050,10k-20k
+ McKinley Park,1.41,1950,18813,Southwest Side,South,13342.55319,0.0052,10k-20k
+ Austin,7.15,2020,95073,West Side,West,13296.92308,0.0352,10k-20k
+ Douglas,1.65,2020,21450,South Side,South,13000,0.0079,10k-20k
+ West Garfield Park,1.28,2020,16489,West Side,West,12882.03125,0.0061,10k-20k
+ Auburn Gresham,3.77,2020,46698,Far Southwest Side,South,12386.7374,0.0173,10k-20k
+ Woodlawn,2.07,2020,24967,South Side,South,12061.35266,0.0093,10k-20k
+ Oakland,0.58,2020,6973,South Side,South,12022.41379,0.0026,10k-20k
+ Roseland,4.82,1950,56705,Far Southeast Side,South,11764.52282,0.0157,10k-20k
+ Dunning,3.72,2020,43587,Northwest Side,North,11716.93548,0.0162,10k-20k
+ Jefferson Park,2.33,2020,27194,Far North Side,North,11671.24464,0.0101,10k-20k
+ Montclare,0.99,1950,11166,Northwest Side,North,11278.78788,0.0031,10k-20k
+ Lower West Side,2.93,2020,32672,West Side,West,11150.85324,0.0121,10k-20k
+ Near West Side,5.69,2020,62816,West Side,West,11039.7188,0.0233,10k-20k
+ West Lawn,2.95,2020,32162,Southwest Side,South,10902.37288,0.0119,10k-20k
+ McKinley Park,1.41,2020,15246,Southwest Side,South,10812.76596,0.0057,10k-20k
+ Chatham,2.95,2020,31363,Far Southeast Side,South,10631.52542,0.0116,10k-20k
+ Jefferson Park,2.33,1950,23556,Far North Side,North,10109.87124,0.0065,10k-20k
+ North Lawndale,3.21,2020,31310,West Side,West,9753.894081,0.0116,0-10k
+ Edison Park,1.13,2020,11002,Far North Side,North,9736.283186,0.0041,0-10k
+ Clearing,2.55,2020,24382,Southwest Side,South,9561.568627,0.0090,0-10k
+ Washington Heights,2.86,2020,26940,Far Southwest Side,South,9419.58042,0.0100,0-10k
+ East Garfield Park,1.93,2020,18075,West Side,West,9365.284974,0.0067,0-10k
+ Avalon Park,1.25,1950,11358,North Side,North,9086.4,0.0031,0-10k
+ South Chicago,3.34,2020,29977,Far Southeast Side,South,8975.149701,0.0111,0-10k
+ Ashburn,4.86,2020,42902,Far Southwest Side,South,8827.572016,0.0159,0-10k
+ Norwood Park,4.37,2020,38088,Far North Side,North,8715.789474,0.0141,0-10k
+ Dunning,3.72,1950,32231,Northwest Side,North,8664.247312,0.0089,0-10k
+ Washington Heights,2.86,1950,24488,Far Southwest Side,South,8562.237762,0.0068,0-10k
+ Garfield Ridge,4.23,2020,36049,Southwest Side,South,8522.222222,0.0134,0-10k
+ West Englewood,3.15,2020,26158,Southwest Side,South,8304.126984,0.0097,0-10k
+ Greater Grand Crossing,3.55,2020,29429,South Side,South,8289.859155,0.0109,0-10k
+ Roseland,4.82,2020,39623,Far Southeast Side,South,8220.539419,0.0147,0-10k
+ West Pullman,3.56,1950,29265,Far Southeast Side,South,8220.505618,0.0081,0-10k
+ New City,4.83,2020,39055,Southwest Side,South,8085.921325,0.0145,0-10k
+ East Side,2.98,2020,22999,Far Southeast Side,South,7717.785235,0.0085,0-10k
+ Avalon Park,1.25,2020,9629,North Side,North,7703.2,0.0036,0-10k
+ North Park,2.52,2020,18806,Far North Side,North,7462.698413,0.0070,0-10k
+ West Pullman,3.56,2020,26484,Far Southeast Side,South,7439.325843,0.0098,0-10k
+ East Side,2.98,1950,21619,Far Southeast Side,South,7254.697987,0.0060,0-10k
+ Englewood,3.07,2020,22019,Southwest Side,South,7172.312704,0.0082,0-10k
+ Calumet Heights,1.75,2020,12343,Far Southeast Side,South,7053.142857,0.0046,0-10k
+ Mount Greenwood,2.71,2020,18840,Far Southwest Side,South,6952.02952,0.0070,0-10k
+ Edison Park,1.13,1950,7843,Far North Side,North,6940.707965,0.0022,0-10k
+ Washington Park,1.52,2020,10427,South Side,South,6859.868421,0.0039,0-10k
+ Morgan Park,3.3,1950,22618,Far Southwest Side,South,6853.939394,0.0062,0-10k
+ Archer Heights,2.01,2020,13533,Southwest Side,South,6732.835821,0.0050,0-10k
+ West Elsdon,1.17,1950,7728,Southwest Side,South,6605.128205,0.0021,0-10k
+ Near South Side,1.78,1950,11317,Central,Central,6357.865169,0.0031,0-10k
+ Beverly,3.18,1950,20186,Far Southwest Side,South,6347.798742,0.0056,0-10k
+ Beverly,3.18,2020,19817,Far Southwest Side,South,6231.761006,0.0073,0-10k
+ Forest Glen,3.2,2020,19928,Far North Side,North,6227.5,0.0074,0-10k
+ Morgan Park,3.3,2020,20526,Far Southwest Side,South,6220,0.0076,0-10k
+ Norwood Park,4.37,1950,26798,Far North Side,North,6132.265446,0.0074,0-10k
+ North Park,2.52,1950,15291,Far North Side,North,6067.857143,0.0042,0-10k
+ Burnside,0.61,1950,3551,Far Southeast Side,South,5821.311475,0.0010,0-10k
+ Calumet Heights,1.75,1950,9349,Far Southeast Side,South,5342.285714,0.0026,0-10k
+ West Lawn,2.95,1950,14460,Southwest Side,South,4901.694915,0.0040,0-10k
+ Mount Greenwood,2.71,1950,12331,Far Southwest Side,South,4550.184502,0.0034,0-10k
+ Archer Heights,2.01,1950,8675,Southwest Side,South,4315.920398,0.0024,0-10k
+ Loop,1.65,1950,7018,Central,Central,4253.333333,0.0019,0-10k
+ Pullman,2.12,1950,8899,Far Southeast Side,South,4197.641509,0.0025,0-10k
+ Clearing,2.55,1950,10591,Southwest Side,South,4153.333333,0.0029,0-10k
+ Forest Glen,3.2,1950,12189,Far North Side,North,3809.0625,0.0034,0-10k
+ Burnside,0.61,2020,2180,Far Southeast Side,South,3573.770492,0.0008,0-10k
+ Pullman,2.12,2020,7131,Far Southeast Side,South,3363.679245,0.0026,0-10k
+ Garfield Ridge,4.23,1950,12900,Southwest Side,South,3049.64539,0.0036,0-10k
+ Fuller Park,0.71,2020,2149,South Side,South,3026.760563,0.0008,0-10k
+ Riverdale,3.53,1950,9790,Far Southeast Side,South,2773.371105,0.0027,0-10k
+ Riverdale,3.53,2020,7414,Far Southeast Side,South,2100.283286,0.0027,0-10k
+ Hegewisch,5.24,2020,9175,Far Southeast Side,South,1750.954198,0.0034,0-10k
+ South Deering,10.9,1950,17476,Far Southeast Side,South,1603.302752,0.0048,0-10k
+ Ashburn,4.86,1950,7472,Far Southwest Side,South,1537.44856,0.0021,0-10k
+ South Deering,10.9,2020,15144,Far Southeast Side,South,1389.357798,0.0056,0-10k
+ Hegewisch,5.24,1950,7142,Far Southeast Side,South,1362.977099,0.0020,0-10k
+ O'Hare,13.34,2020,13285,Far North Side,North,995.8770615,0.0049,0-10k
+ O'Hare,13.34,1950,0,Far North Side,North,0,0.0000,0-10k
